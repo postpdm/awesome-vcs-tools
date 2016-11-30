@@ -10,6 +10,7 @@ Please, contribute!
 * GitHub Desktop https://desktop.github.com/
 * SmartGit http://www.syntevo.com/smartgit/
 * TortoiseGit https://tortoisegit.org/
+* GitKraken https://www.gitkraken.com
 
 ## SVN
 
