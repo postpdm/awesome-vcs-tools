@@ -7,4 +7,4 @@ A curated list of awesome Version control tools - clients, diffs etc.
 
 #Contributing
 
-Just fork and send a pull request with your awesome django CMS add-ons and/or projects.
+Just fork and send a pull request with your awesome Version control tools - clients, diffs etc.
