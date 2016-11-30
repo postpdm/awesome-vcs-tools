@@ -3,7 +3,16 @@ A curated list of awesome Version control tools - clients, diffs etc.
 
 # Desktop clients
 
-# Stand alone diff tools
+## GIT
+
+* SmartGit http://www.syntevo.com/smartgit/
+* TortoiseGit https://tortoisegit.org/
+
+## SVN
+
+* TortoiseSVN https://tortoisesvn.net/
+
+# Stand-alone diff tools
 
 #Contributing
 
