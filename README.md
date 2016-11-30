@@ -20,7 +20,7 @@ A curated list of awesome Version control tools - clients, diffs etc.
 
 * KDiff https://sourceforge.net/projects/kdiff3
 * WinDiff https://en.wikipedia.org/wiki/WinDiff
-* WinMerge * https://sourceforge.net/projects/winmerge
+* WinMerge https://sourceforge.net/projects/winmerge
 * Perceptual Image Diff https://sourceforge.net/projects/pdiff/
 * ccdiff https://sourceforge.net/projects/ccdiff
 * Beyond Compare http://www.scootersoftware.com/
