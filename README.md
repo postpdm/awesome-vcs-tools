@@ -11,6 +11,7 @@ Please, contribute!
 * SmartGit http://www.syntevo.com/smartgit/
 * TortoiseGit https://tortoisegit.org/
 * GitKraken https://www.gitkraken.com
+* Git Extensions http://gitextensions.github.io/
 
 ## SVN
 
