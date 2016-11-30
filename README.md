@@ -7,15 +7,15 @@ Please, contribute!
 
 ## GIT
 
-* GitHub Desktop https://desktop.github.com/
-* SmartGit http://www.syntevo.com/smartgit/
-* TortoiseGit https://tortoisegit.org/
+* [GitHub Desktop](https://desktop.github.com/) - official GitHub client
+* [SmartGit](http://www.syntevo.com/smartgit/) - stand-alone or portable Git client
+* [TortoiseGit](https://tortoisegit.org/) - Windows Explorer shel extension
 * GitKraken https://www.gitkraken.com
 * Git Extensions http://gitextensions.github.io/
 
 ## SVN
 
-* TortoiseSVN https://tortoisesvn.net/
+* [TortoiseSVN](https://tortoisesvn.net/)  - Windows Explorer shel extension
 
 ## Mercurial
 
