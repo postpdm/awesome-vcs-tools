@@ -32,11 +32,11 @@ A curated list of awesome Version control tools - clients, diffs etc.
 * Diffuse https://sourceforge.net/projects/diffuse
 * N++ https://sourceforge.net/projects/npp-compare
 * Araxis merge http://www.araxis.com/merge/
-* diffmerge http://www.sourcegear.com/diffmerge/    
+* DiffMerge http://www.sourcegear.com/diffmerge/    
 * Perforce Visual Merge https://www.perforce.com/product/components/perforce-visual-merge-and-diff-tools
 * SemanticMerge https://www.semanticmerge.com/index.html
 * DiffPlug https://www.diffplug.com/
-* AutoDesk topic https://apps.autodesk.com/ACD/en/Detail/HelpDoc?appId=4961723067758954084&appLang=en&os=Win32_64#contactinfo    
+* Fast File Diff (see AutoDesk Forum topic https://apps.autodesk.com/ACD/en/Detail/HelpDoc?appId=4961723067758954084&appLang=en&os=Win32_64#contactinfo)
 
 #Contributing
 
