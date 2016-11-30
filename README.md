@@ -1,5 +1,7 @@
-# awesome-vcs-tools
+# Awesome VCS tools
 A curated list of awesome Version control tools - clients, diffs etc.
+
+Please, contribute!
 
 # Desktop clients
 
