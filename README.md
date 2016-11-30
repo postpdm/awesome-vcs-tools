@@ -7,6 +7,7 @@ Please, contribute!
 
 ## GIT
 
+* GitHub Desktop https://desktop.github.com/
 * SmartGit http://www.syntevo.com/smartgit/
 * TortoiseGit https://tortoisegit.org/
 
