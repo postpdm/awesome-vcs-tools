@@ -16,6 +16,7 @@ Please, contribute!
 
 ## Mercurial
 
+* SmartHG http://www.syntevo.com/smartgit/
 * TortoiseHg http://tortoisehg.bitbucket.org/
 
 # Stand-alone diff tools
