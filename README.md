@@ -12,6 +12,10 @@ A curated list of awesome Version control tools - clients, diffs etc.
 
 * TortoiseSVN https://tortoisesvn.net/
 
+## Mercurial
+
+* TortoiseHg http://tortoisehg.bitbucket.org/
+
 # Stand-alone diff tools
 
 * KDiff https://sourceforge.net/projects/kdiff3
