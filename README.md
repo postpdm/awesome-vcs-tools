@@ -15,13 +15,14 @@ Please, contribute!
 
 ## SVN
 
-### Clients
-
-* [TortoiseSVN](https://tortoisesvn.net/)  - Windows Explorer shell extension
-
 ### Docs
 
 * [SVN Red book](http://svnbook.red-bean.com/) - you should start here
+
+### Clients
+
+* [TortoiseSVN](https://tortoisesvn.net/)  - Windows Explorer shell extension
+* [Version Control for engineers](http://soft.postpdm.com/)
 
 ## Mercurial
 
