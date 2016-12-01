@@ -9,7 +9,7 @@ Please, contribute!
 
 ### Docs
 
-* [Git magic book](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+* [Git magic book](http://www-cs-students.stanford.edu/~blynn/gitmagic/) by Ben Lynn
 
 ### Clients
 
