@@ -10,8 +10,8 @@ Please, contribute!
 * [GitHub Desktop](https://desktop.github.com/) - official GitHub client
 * [SmartGit](http://www.syntevo.com/smartgit/) - stand-alone or portable Git client
 * [TortoiseGit](https://tortoisegit.org/) - Windows Explorer shel extension
-* GitKraken https://www.gitkraken.com
-* Git Extensions http://gitextensions.github.io/
+* [GitKraken](https://www.gitkraken.com)
+* [Git Extensions](http://gitextensions.github.io/) - Wnidows Explorer extension
 
 ## SVN
 
@@ -24,12 +24,12 @@ Please, contribute!
 
 # Stand-alone diff tools
 
+## Text diff
+
 * KDiff https://sourceforge.net/projects/kdiff3
 * WinDiff https://en.wikipedia.org/wiki/WinDiff
 * WinMerge https://sourceforge.net/projects/winmerge
-* Perceptual Image Diff https://sourceforge.net/projects/pdiff/
 * ccdiff https://sourceforge.net/projects/ccdiff
-* Beyond Compare http://www.scootersoftware.com/
 * DiffEngineX https://en.wikipedia.org/wiki/DiffEngineX
 * Diff-Text https://en.wikipedia.org/wiki/Diff-Text
 * Pretty Diff https://en.wikipedia.org/wiki/Pretty_Diff
@@ -42,6 +42,12 @@ Please, contribute!
 * Perforce Visual Merge https://www.perforce.com/product/components/perforce-visual-merge-and-diff-tools
 * SemanticMerge https://www.semanticmerge.com/index.html
 * DiffPlug https://www.diffplug.com/
+
+## Image and CAD file diff
+
+* Perceptual Image Diff https://sourceforge.net/projects/pdiff/
+* Beyond Compare http://www.scootersoftware.com/
+
 * Fast File Diff (see AutoDesk Forum topic https://apps.autodesk.com/ACD/en/Detail/HelpDoc?appId=4961723067758954084&appLang=en&os=Win32_64#contactinfo)
 * CAD Diff http://soft.postpdm.com/cad_diff.html
 
