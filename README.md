@@ -7,11 +7,17 @@ Please, contribute!
 
 ## GIT
 
+### Docs
+
+* [Git magic book](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+
+### Clients
+
 * [GitHub Desktop](https://desktop.github.com/) - official GitHub client
 * [SmartGit](http://www.syntevo.com/smartgit/) - stand-alone or portable Git client
 * [TortoiseGit](https://tortoisegit.org/) - Windows Explorer shell extension
 * [GitKraken](https://www.gitkraken.com)
-* [Git Extensions](http://gitextensions.github.io/) - Wnidows Explorer extension
+* [Git Extensions](http://gitextensions.github.io/) - Windows Explorer extension
 
 ## SVN
 
