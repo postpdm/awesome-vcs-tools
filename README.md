@@ -9,18 +9,18 @@ Please, contribute!
 
 * [GitHub Desktop](https://desktop.github.com/) - official GitHub client
 * [SmartGit](http://www.syntevo.com/smartgit/) - stand-alone or portable Git client
-* [TortoiseGit](https://tortoisegit.org/) - Windows Explorer shel extension
+* [TortoiseGit](https://tortoisegit.org/) - Windows Explorer shell extension
 * [GitKraken](https://www.gitkraken.com)
 * [Git Extensions](http://gitextensions.github.io/) - Wnidows Explorer extension
 
 ## SVN
 
-* [TortoiseSVN](https://tortoisesvn.net/)  - Windows Explorer shel extension
+* [TortoiseSVN](https://tortoisesvn.net/)  - Windows Explorer shell extension
 
 ## Mercurial
 
-* SmartHG http://www.syntevo.com/smartgit/
-* TortoiseHg http://tortoisehg.bitbucket.org/
+* [SmartHG](http://www.syntevo.com/smartgit/) - stand-alone or portable Git client
+* [TortoiseHg](http://tortoisehg.bitbucket.org/) - Windows Explorer shell extension
 
 # Stand-alone diff tools
 
@@ -51,6 +51,6 @@ Please, contribute!
 * Fast File Diff (see AutoDesk Forum topic https://apps.autodesk.com/ACD/en/Detail/HelpDoc?appId=4961723067758954084&appLang=en&os=Win32_64#contactinfo)
 * CAD Diff http://soft.postpdm.com/cad_diff.html
 
-#Contributing
+# Contributing
 
 Just fork and send a pull request with your awesome Version control tools - clients, diffs etc.
