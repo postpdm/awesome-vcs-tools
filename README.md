@@ -41,7 +41,7 @@ Please, contribute!
 
 * KDiff https://sourceforge.net/projects/kdiff3
 * WinDiff https://en.wikipedia.org/wiki/WinDiff
-* WinMerge https://sourceforge.net/projects/winmerge
+* [WinMerge](https://sourceforge.net/projects/winmerge) - compare and merge text files
 * ccdiff https://sourceforge.net/projects/ccdiff
 * DiffEngineX https://en.wikipedia.org/wiki/DiffEngineX
 * Diff-Text https://en.wikipedia.org/wiki/Diff-Text
