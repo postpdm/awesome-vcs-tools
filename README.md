@@ -12,6 +12,7 @@ Please, contribute!
 ### Docs
 
 * [Git magic book](http://www-cs-students.stanford.edu/~blynn/gitmagic/) by Ben Lynn
+* [Pro Git book](https://git-scm.com/book) by Scott Chacon and Ben Straub.
 
 ### Clients
 
