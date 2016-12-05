@@ -5,7 +5,9 @@ Please, contribute!
 
 # Desktop clients
 
-## GIT
+## Git
+
+[Git](https://git-scm.com/) - most popular decentilazed version control system.
 
 ### Docs
 
@@ -20,6 +22,8 @@ Please, contribute!
 * [Git Extensions](http://gitextensions.github.io/) - Windows Explorer extension
 
 ## SVN
+
+[SVN](http://subversion.apache.org/) - popular centralized version control system.
 
 ### Docs
 
