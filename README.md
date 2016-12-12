@@ -60,6 +60,7 @@ Please, contribute!
 * Perforce Visual Merge https://www.perforce.com/product/components/perforce-visual-merge-and-diff-tools
 * SemanticMerge https://www.semanticmerge.com/index.html
 * DiffPlug https://www.diffplug.com/
+* [Meld](http://meldmerge.org/)
 
 ## Image and CAD file diff
 
