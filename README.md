@@ -22,6 +22,10 @@ Please, contribute!
 * [GitKraken](https://www.gitkraken.com)
 * [Git Extensions](http://gitextensions.github.io/) - Windows Explorer extension
 
+### Client extensions
+
+* [Turbo Git](https://github.com/labs-js/turbo-git) - commit convention support.
+
 ## SVN
 
 [SVN](http://subversion.apache.org/) - popular centralized version control system.
