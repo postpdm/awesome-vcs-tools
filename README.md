@@ -28,7 +28,7 @@ Please, contribute!
 
 ### GitHub extensions
 
-* [Renders TeXy Math for Github Readmes](https://github.com/leegao/readme2tex)
+* [Renders TeXy Math for Github readme and commit](https://github.com/leegao/readme2tex)
 
 ## SVN
 
