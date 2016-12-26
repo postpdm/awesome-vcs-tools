@@ -26,6 +26,10 @@ Please, contribute!
 
 * [Turbo Git](https://github.com/labs-js/turbo-git) - commit convention support.
 
+### GitHub extensions
+
+* [Renders TeXy Math for Github Readmes](https://github.com/leegao/readme2tex)
+
 ## SVN
 
 [SVN](http://subversion.apache.org/) - popular centralized version control system.
