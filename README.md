@@ -79,7 +79,7 @@ Please, contribute!
 * Fast File Diff (see AutoDesk Forum topic https://apps.autodesk.com/ACD/en/Detail/HelpDoc?appId=4961723067758954084&appLang=en&os=Win32_64#contactinfo)
 * CAD Diff http://soft.postpdm.com/cad_diff.html
 
-# Code hostring
+# Code hosting
 
 * https://github.com/ripienaar/free-for-dev#source-code-repos
 
