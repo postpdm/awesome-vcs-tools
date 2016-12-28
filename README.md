@@ -83,6 +83,16 @@ Please, contribute!
 
 * https://github.com/ripienaar/free-for-dev#source-code-repos
 
+## Self-hosting
+
+### Git
+
+* [Gitea](https://github.com/go-gitea/gitea)
+
+### SVN
+
+* [Visual SVN Server](https://www.visualsvn.com/server/)
+
 # Contributing
 
 Just fork and send a pull request with your awesome Version control tools - clients, diffs etc.
