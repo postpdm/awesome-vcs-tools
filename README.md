@@ -11,16 +11,17 @@ Please, contribute!
 
 ### Docs
 
-* [Git magic book](http://www-cs-students.stanford.edu/~blynn/gitmagic/) by Ben Lynn
+* [Git magic book](http://www-cs-students.stanford.edu/~blynn/gitmagic/) by Ben Lynn.
 * [Pro Git book](https://git-scm.com/book) by Scott Chacon and Ben Straub.
 
 ### Clients
 
-* [GitHub Desktop](https://desktop.github.com/) - official GitHub client
-* [SmartGit](http://www.syntevo.com/smartgit/) - stand-alone or portable Git client
-* [TortoiseGit](https://tortoisegit.org/) - Windows Explorer shell extension
+* [GitHub Desktop](https://desktop.github.com/) - official GitHub client.
+* [SmartGit](http://www.syntevo.com/smartgit/) - stand-alone or portable Git client.
+* [TortoiseGit](https://tortoisegit.org/) - Windows Explorer shell extension.
 * [GitKraken](https://www.gitkraken.com)
-* [Git Extensions](http://gitextensions.github.io/) - Windows Explorer extension
+* [Git Extensions](http://gitextensions.github.io/) - Windows Explorer extension.
+* [Legit](http://www.git-legit.org/) - command-line interface for Git, optimized for workflow simplicity.
 
 ### Client extensions
 
@@ -29,7 +30,7 @@ Please, contribute!
 
 ### GitHub extensions
 
-* [Renders TeXy Math for Github readme and commit](https://github.com/leegao/readme2tex)
+* [Renders TeXy Math for Github readme and commit](https://github.com/leegao/readme2tex).
 
 ## SVN
 
@@ -37,7 +38,7 @@ Please, contribute!
 
 ### Docs
 
-* [SVN Red book](http://svnbook.red-bean.com/) - you should start here
+* [SVN Red book](http://svnbook.red-bean.com/) - you should to start here.
 
 ### Clients
 
