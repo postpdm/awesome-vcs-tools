@@ -34,6 +34,8 @@ Please, contribute!
 
 ### Behind GitHub
 
+* [GitHub Engineering - The Blog of the GitHub Engineering Team](https://githubengineering.com).
+
 ## SVN
 
 [SVN](http://subversion.apache.org/) - popular centralized version control system.
