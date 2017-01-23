@@ -7,7 +7,7 @@ Please, contribute!
 
 ## Git
 
-[Git](https://git-scm.com/) - most popular decentilazed version control system.
+[Git](https://git-scm.com/) - most popular decentralized version control system.
 
 ### Docs
 
