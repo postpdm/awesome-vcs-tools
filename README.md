@@ -36,6 +36,7 @@ Please, contribute!
 
 * [GitHub Engineering - The Blog of the GitHub Engineering Team](https://githubengineering.com).
 * http://githut.info/
+* [Git.io](https://git.io/) - GitHub links shortened
 
 ## SVN
 
