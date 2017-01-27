@@ -38,6 +38,12 @@ Please, contribute!
 * http://githut.info/ - GitHub language statistics
 * [Git.io](https://git.io/) - GitHub links shortened
 
+### Extras
+
+`gitignore` is a rules for Git working copy.
+* [github/gitignore](https://github.com/github/gitignore) - a collection of .gitignore templates
+* [gitignore.io](https://www.gitignore.io/) - create useful .gitignore Files For Your Project
+
 ## SVN
 
 [SVN](http://subversion.apache.org/) - popular centralized version control system.
