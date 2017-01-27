@@ -13,6 +13,7 @@ Please, contribute!
 
 * [Git magic book](http://www-cs-students.stanford.edu/~blynn/gitmagic/) by Ben Lynn.
 * [Pro Git book](https://git-scm.com/book) by Scott Chacon and Ben Straub.
+* [Git How to](https://githowto.com/) - a guided tour that walks through the fundamentals of Git.
 
 ### Clients
 
