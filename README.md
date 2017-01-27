@@ -28,7 +28,7 @@ Please, contribute!
 ### Client extensions
 
 * [Turbo Git](https://github.com/labs-js/turbo-git) - commit convention support.
-* Magit(https://github.com/magit/magit) - A Git Porcelain inside Emacs.
+* [Magit](https://github.com/magit/magit) - A Git Porcelain inside Emacs.
 
 ### GitHub extensions
 
