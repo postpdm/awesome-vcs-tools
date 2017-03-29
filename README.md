@@ -40,6 +40,10 @@ Please, contribute!
 * http://githut.info/ - GitHub language statistics
 * [Git.io](https://git.io/) - GitHub links shortened
 
+### Mods
+
+* [Git Virtual File System](https://github.com/Microsoft/gvfs), and [and some back story](https://blogs.msdn.microsoft.com/bharry/2017/02/03/scaling-git-and-some-back-story/)
+
 ### Extras
 
 `gitignore` is a rules for Git working copy.
