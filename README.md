@@ -15,6 +15,7 @@ Please, contribute!
 * [Pro Git book](https://git-scm.com/book) by Scott Chacon and Ben Straub.
 * [Git How to](https://githowto.com/) - a guided tour that walks through the fundamentals of Git.
 * [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) - Git Cheatsheet from NDP software.
+* [Git Immersion](http://gitimmersion.com/) - is a guided tour that walks through the fundamentals of Git.
 
 ### Clients
 
