@@ -111,6 +111,7 @@ Please, contribute!
 * [Gitea](https://github.com/go-gitea/gitea)
 * [GitLab](https://about.gitlab.com/)
   * [How to Setup GitLab: A Self Hosted GitHub](https://scotch.io/tutorials/how-to-setup-gitlab-a-self-hosted-github)
+* [Gogs.io](https://gogs.io/) - cross-platform  self-hosted Git service
 
 ### SVN
 
