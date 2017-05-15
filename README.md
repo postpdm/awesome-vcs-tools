@@ -40,6 +40,7 @@ Please, contribute!
 * [GitHub Engineering - The Blog of the GitHub Engineering Team](https://githubengineering.com).
 * http://githut.info/ - GitHub language statistics
 * [Git.io](https://git.io/) - GitHub links shortened
+* [GitHub Archive](https://www.githubarchive.org/) - GitHub statistics
 
 ### Mods
 
