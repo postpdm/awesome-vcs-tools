@@ -25,6 +25,7 @@ Please, contribute!
 * [GitKraken](https://www.gitkraken.com)
 * [Git Extensions](http://gitextensions.github.io/) - Windows Explorer extension.
 * [Legit](http://www.git-legit.org/) - command-line interface for Git, optimized for workflow simplicity.
+* [Hug SCM](https://github.com/elifarley/hug-scm) - CLI tool for Git aiming for intuitiveness.
 
 ### Client extensions
 
