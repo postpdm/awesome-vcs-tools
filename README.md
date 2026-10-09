@@ -19,6 +19,7 @@ Please, contribute!
 
 ### Clients
 
+* [GitLab Dump](https://github.com/rekurt/gitlab-downloader) - GitLab client for bulk repository cloning and conservative transfers between instances, with CLI and Electron interfaces.
 * [GitHub Desktop](https://desktop.github.com/) - official GitHub client.
 * [SmartGit](http://www.syntevo.com/smartgit/) - stand-alone or portable Git client.
 * [TortoiseGit](https://tortoisegit.org/) - Windows Explorer shell extension.
