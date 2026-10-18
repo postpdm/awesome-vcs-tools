@@ -65,6 +65,7 @@ Please, contribute!
 
 ### Clients
 
+* [StoneSVN](https://github.com/firzen/StoneSVN) - Open-source SVN desktop client for Windows, macOS and Linux, with diff review, selective commits and local shelving.
 * [TortoiseSVN](https://tortoisesvn.net/)  - Windows Explorer shell extension
 * [Version Control for engineers](http://soft.postpdm.com/)
 
